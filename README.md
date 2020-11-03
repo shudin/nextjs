@@ -1,1 +1,1 @@
-# nextjs
+# nextjs is awesome
